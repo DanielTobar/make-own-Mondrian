@@ -1,0 +1,90 @@
+body{
+  background-color: rgb(189, 189, 189);
+}
+#painting{
+  background-color: #fff4db;
+      width: 400px;
+      height: 400px;
+      margin-top: 30px;
+      margin-left: auto;
+      margin-right: auto;
+      box-shadow: 10px 10px 0px #8d8d8d;
+}
+#topRow{
+  height: 290px;
+}
+#bigBox{
+  height: 290px;
+  width: 290px;
+}
+.red{
+  background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+.yellow {
+    background-color: yellow;
+}
+.black {
+    background-color: black;
+}
+.purple{
+  background-color: purple;
+}
+.green{
+  background-color: green;
+}
+.right{
+  float: right;
+}
+#bigColumn{
+  height: 290px;
+  width: 100px;
+}
+#medBox{
+  width: 100px;
+  height: 140px;
+}
+#divider1{
+  height: 290px;
+  width: 10px;
+  background-color: black;
+}
+#divider2{
+  height: 10px;
+  width: 100px;
+}
+#divider3{
+  height: 10px;
+  width: 400px;
+}
+#divider4{
+  height: 100px;
+  width: 10px;
+}
+
+#bottomRow{
+  height: 100px;
+  width: 400px;
+}
+#smallColumn{
+  height: 100px;
+  width: 20px;
+}
+#bigBottomBox{
+  height: 100px;
+  width: 260px;
+}
+#smallBottomBox{
+  height: 100px;
+  width: 100px;
+}
+#smallColumnBox{
+  height: 45px;
+  width: 20px;
+}
+#divider5{
+  height: 10px;
+  width: 20px;
+}
